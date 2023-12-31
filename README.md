@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @yagol2020
-- 👀 I’m interested in BlockChain、Smart Contract And its security detection
-- 🌱 I’m currently learning Solidity、solc compiler And other smart contract's detect method
 - 📫 How to reach me : yhw_yagol@yeah.net
 
 <!---
